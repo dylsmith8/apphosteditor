@@ -1,0 +1,10 @@
+
+*.exe
+
+ApplicationHostEditor/ApplicationHostEditor/bin/Debug/ApplicationHostEditor\.exe\.config
+
+ApplicationHostEditor/ApplicationHostEditor/Properties/AssemblyInfo\.cs
+
+ApplicationHostEditor/ApplicationHostEditor/obj/Debug/
+
+ApplicationHostEditor/\.vs/ApplicationHostEditor/v14/\.suo
